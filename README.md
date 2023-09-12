@@ -3,7 +3,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5573998439079)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/herculessamoli)
 
-![Sampaio GitHub stats](https://github-readme-stats.vercel.app/api?username=HerculesDraycon&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesDraycon&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies I use.
 <div style="display: inline_block"><br/>
