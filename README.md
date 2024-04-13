@@ -1,4 +1,4 @@
-### Hello! I'm Hércules Sampaio.
+### Hello! I'm Hércules Sampaio
 [![Linckedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9rcules-sampaio-oliveira-7551b0274)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5573998439079)
 
@@ -12,7 +12,7 @@
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesDraycon&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesDraycon&langs_count=6&layout=compact&theme=synthwave&)
 
 About me:<br/>
 University student in Computation Sciense, passionate on coding, Brazilian. Very committed to exercise systems programming and keep chasing more knowledge about it.
