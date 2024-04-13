@@ -15,4 +15,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesDraycon&layout=compact)
 
 About me:<br/>
-University student in Computation Sciense, passionate on coding, Brazilian. Very committed to exercise systems programming in and keep chasing more knowledge about it.
+University student in Computation Sciense, passionate on coding, Brazilian. Very committed to exercise systems programming and keep chasing more knowledge about it.
