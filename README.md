@@ -13,5 +13,10 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesDraycon&langs_count=6&layout=compact&theme=synthwave&)-->
 
-#### About me:<br/>
+#### About me
 University student in Computation Sciense, passionate on coding, Brazilian. Very committed to exercise systems programming and keep chasing more knowledge about it.
+
+### Soft skills
+- 🌐 Advanced English
+- 👥 Communicative and group interactive
+- 🗣️ Related with business and sales, in contact with customers.
