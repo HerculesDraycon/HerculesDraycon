@@ -1,8 +1,8 @@
-### Hello! I'm Hércules Sampaio
+## Hello! I'm Hércules Sampaio.
 [![Linckedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9rcules-sampaio-oliveira-7551b0274)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5573998439079)
 
-### Technologies I use.
+### Technologies I use:
 <div>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -13,10 +13,11 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesDraycon&langs_count=6&layout=compact&theme=synthwave&)-->
 
-### About me
-University student in Computation Sciense, passionate on coding, Brazilian. Very committed to exercise systems programming and keep chasing more knowledge about it.
+### About me:
+#### 📚 University student in Computation Sciense, passionate on coding, Brazilian. Very committed to exercise systems programming and keep chasing more knowledge about it.
+#### 🛠️ I'am Currently working in teaching programming to young begginers and in pralallel, focusing on learning and developing IOT Systems, with technologies such like Rust and C++.
 
-### Soft skills
-- 🌐 Advanced English
-- 👥 Communicative and group interactive
-- 🗣️ Related with business and sales, in contact with customers.
+### Soft skills:
+- #### 🌐 Advanced English
+- #### 👥 Communicative and group interactive
+- #### 🗣️ Related with business and sales, in contact with customers.
