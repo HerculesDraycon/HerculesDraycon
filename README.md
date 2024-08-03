@@ -15,7 +15,7 @@
 
 ### About me:
 #### 📚 University student in Computation Sciense, passionate on coding, Brazilian. Very committed to exercise systems programming and keep chasing more knowledge about it.
-#### 🛠️ I'am Currently working in teaching programming to young begginers and in pralallel, focusing on learning and developing IOT Systems, with technologies such like Rust and C++.
+#### 🛠️ I'am Currently working in teaching programming to young begginers and in pralallel, focusing on learning and developing IOT Systems, with technologies such like Python and C++.
 
 ### Soft skills:
 - #### 🌐 Advanced English
