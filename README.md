@@ -13,11 +13,16 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesDraycon&langs_count=6&layout=compact&theme=synthwave&)-->
 
-### About me:
-#### 📚 University student in Computation Sciense, passionate on coding, Brazilian. Very committed to exercise systems programming and keep chasing more knowledge about it.
-#### 🛠️ I'am Currently working in teaching programming to young begginers and in pralallel, focusing on learning and developing IOT Systems, with technologies such like Python and C++.
+### 📚🛠️Currently on:
+#### University student in Computation Sciense at Universidade Estadual do Sudoeste da Bahia (UESB), Brazil.
+#### Embedded Systems Intern at CEPEDI, a Brazilian research and developing company.
+#### I'am Currently working in teaching programming to young begginers and in pralallel, focusing on learning and developing IOT Systems, with technologies such like Python and C++.
 
 ### Soft skills:
-- #### 🌐 Advanced English
-- #### 👥 Communicative and group interactive
+- #### 🌐 Advanced English.
+- #### 👥 Communicative and group interactive.
 - #### 🗣️ Related with business and sales, in contact with customers.
+
+
+<!--passionate on coding,-->
+<!-- Very committed to exercise systems programming and keep chasing more knowledge about it.-->
