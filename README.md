@@ -14,9 +14,9 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesDraycon&langs_count=6&layout=compact&theme=synthwave&)-->
 
-### 📚🛠️Currently on:
+### 📚🛠️Academic Background:
+#### Certified Embedded Systems Intern at CEPEDI, a Brazilian research and developing company.
 #### University student in Computation Sciense at Universidade Estadual do Sudoeste da Bahia (UESB), Brazil.
-#### Embedded Systems Intern at CEPEDI, a Brazilian research and developing company.
 #### I'am Currently working in teaching programming to young begginers and in pralallel, focusing on learning and developing IOT Systems, with technologies such like Python, C and C++.
 
 ### Soft skills:
